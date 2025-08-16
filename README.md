@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-**PowerZone Fitness** is a modern, responsive one-page **gym and fitness** website built using **React.js** and **Material UI (MUI)**.
+**PowerZone Fitness** is a modern, responsive single-page **gym and fitness** website built using **React.js** and **Material UI (MUI)**.
 The website is designed to give visitors a clear insight into the gym’s services, trainers, and mission while encouraging them to take action through a bold **Call to Action** section.
 
 The site is optimized for both **desktop and mobile** users, with smooth scrolling navigation and a clean, minimal design.
